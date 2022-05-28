@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+body{
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+}
+header{
+    min-height: 10vh;
+    background-color: rgba(94, 94, 159, 0.828);
+}
+main{
+    padding: 2vh;
+    min-height: 75vh;
+    background-color: rgb(234, 228, 241);
+}
+footer{
+    background-color:rgba(94, 94, 159, 0.828);
+    min-height: 15vh;
+}
+.logo{
+    height: 8vh;
+}
+.card-image{
+    height: 20 hv;
+}
+.card{
+    font-family: 'Pacifico', cursive;
+    
+    margin: 1 vh;
+    background-color: rgba(230, 197, 197, 0.908);
+    border-radius: 24px;
+    padding: 24px;
+}
+
+
+.card-text{
+    padding-left:1vw ;
+}
+.card-link{
+color: blueviolet;
+}
+.card-image2{
+    height: 20 hv;
+
+}
+.card2{
+    font-family: 'Comfortaa', cursive;
+    display: flex;
+    margin: 1 vh;
+    background-color: rgba(199, 125, 173, 0.908);
+    border-radius: 24px;
+    padding: 24px;
+}
+.card-text2{
+    padding-left:1vw ;
+}
+.card-link2{
+color: blueviolet;
+}
+.card3{
+    display: flex;
+    margin: 1 vh;
+    background-color: rgba(188, 185, 191, 0.908);
+    border-radius: 24px;
+    padding: 24px;
+}
+.card-text3{
+    padding-left:1vw ;
+}
+.card-link3{
+color: blueviolet;
+}
+.card-image3{
+    height: 20 hv;
+    
+}
+.row{
+    display: flex;
+  
+}
+.col{
+    padding: 2vh;
+}
+.gallery{
+    margin-left: 10vw;
+    width: 80vw;
+}
+.photo{
+    width: 100%;
+}
