@@ -43,3 +43,10 @@ footer{
     display: flex;
     min-height: 15vh;
 }
+.error{
+    font-size: 3rem;
+}
+.div-error{
+    font-size: 2rem;
+    background-position: center;
+}
